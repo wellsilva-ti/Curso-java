@@ -45,7 +45,7 @@ public class Aluno {
     }
 
     //http://commons.apache.org/proper/commons-lang/
-    //www.slideshare.net/loiane/curso-java-basico-exercicios-36-a-43
+    //
 
     @Override
     public int hashCode() {
