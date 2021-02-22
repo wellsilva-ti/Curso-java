@@ -1,4 +1,4 @@
-package com.company.Exer36a43;
+package com.company.Exer36a43.exe1;
 
 public class ContaEspecial extends ContaBancaria{
     private double limite;
