@@ -1,2 +1,15 @@
-package com.company.polimorfismo2;public class Animal {
+package com.company.polimorfismo2;
+
+public abstract class Animal {
+    private String nome;
+
+    public abstract void emitirSom();
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
 }
