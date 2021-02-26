@@ -17,6 +17,8 @@ public class UsandoThrows {
         /*o printStackTrace so deve ser usado por desenvolvedores afim de identificar os erros com mais exatidao,
         o ususario dever ter uma informação mais amigavel e sem muitas informações*/
 
+        //
+
 
     }
     public static double leNumero() throws Exception {
